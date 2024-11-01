@@ -1,0 +1,186 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-18 09:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: VkLock_Plugin.php:19
+msgid "VKontakte Application ID"
+msgstr ""
+
+#: VkLock_Plugin.php:20
+msgid "VKontakte Application secure key"
+msgstr ""
+
+#: VkLock_Plugin.php:21
+msgid "Show default Password box [0\\1]"
+msgstr ""
+
+#: VkLock_Plugin.php:22
+msgid "No access notice Header"
+msgstr ""
+
+#: VkLock_Plugin.php:22
+msgid "ATTENSION"
+msgstr ""
+
+#: VkLock_Plugin.php:23
+msgid "No access notice text"
+msgstr ""
+
+#: VkLock_Plugin.php:23
+#, php-format
+msgid ""
+"Access to this page is allowed to the members of VKontakte social network "
+"group [%s] only.<br/>If your are a member of the group - please click on "
+"SingIn button below to proceed."
+msgstr ""
+
+#: VkLock_Plugin.php:24
+msgid "SingIn Button Text"
+msgstr ""
+
+#: VkLock_Plugin.php:24
+msgid "SingIn via VK.COM"
+msgstr ""
+
+#: VkLock_Plugin.php:25
+msgid "No access after expiration time notice"
+msgstr ""
+
+#: VkLock_Plugin.php:25
+#, php-format
+msgid "Access to this page is expired since %s."
+msgstr ""
+
+#: VkLock_Plugin.php:26
+msgid "CSS class for SingIn <div> area"
+msgstr ""
+
+#: VkLock_Plugin.php:27
+msgid "CSS class for VK SingIn anchor"
+msgstr ""
+
+#: VkLock_Plugin.php:93 VkLock_OptionsManager.php:266
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Name of the plugin
+#: VkLock_Plugin.php:322
+msgid "VK Lock"
+msgstr ""
+
+#: VkLock_Plugin.php:334
+msgid ""
+"Visitor will see the page/post only in case he(she) is a member of specified "
+"VKontakte group."
+msgstr ""
+
+#: VkLock_Plugin.php:337
+msgid "NOTE:"
+msgstr ""
+
+#: VkLock_Plugin.php:337
+msgid ""
+"This post(page) <b>is not \"password-protected\"</b>. VKontakte access lock "
+"works with \"password-protected\" posts(pages) only"
+msgstr ""
+
+#: VkLock_Plugin.php:344
+msgid "URL of VKontakte group:"
+msgstr ""
+
+#: VkLock_Plugin.php:351
+msgid "Block access after YYYY-MM-DD (leave black for unlimited):"
+msgstr ""
+
+#: vk-lock.php:42
+msgid ""
+"Error: plugin \"VK Lock\" requires a newer version of PHP to be running."
+msgstr ""
+
+#: vk-lock.php:43
+msgid "Minimal version of PHP required: "
+msgstr ""
+
+#: vk-lock.php:44
+msgid "Your server's PHP version: "
+msgstr ""
+
+#: VkLock_OptionsManager.php:284
+msgid "System Settings"
+msgstr ""
+
+#: VkLock_OptionsManager.php:286
+msgid "System"
+msgstr ""
+
+#: VkLock_OptionsManager.php:287
+msgid "PHP Version"
+msgstr ""
+
+#: VkLock_OptionsManager.php:292
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than PHP 5."
+"2)"
+msgstr ""
+
+#: VkLock_OptionsManager.php:297
+msgid "MySQL Version"
+msgstr ""
+
+#: VkLock_OptionsManager.php:302
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than MySQL "
+"5.0)"
+msgstr ""
+
+#: VkLock_OptionsManager.php:310
+msgid "Settings"
+msgstr ""
+
+#: VkLock_OptionsManager.php:341
+msgid "Save Changes"
+msgstr ""
+
+#: VkLock_OptionsManager.php:398
+msgid "true"
+msgstr ""
+
+#: VkLock_OptionsManager.php:400
+msgid "false"
+msgstr ""
+
+#: VkLock_OptionsManager.php:403
+msgid "Administrator"
+msgstr ""
+
+#: VkLock_OptionsManager.php:405
+msgid "Editor"
+msgstr ""
+
+#: VkLock_OptionsManager.php:407
+msgid "Author"
+msgstr ""
+
+#: VkLock_OptionsManager.php:409
+msgid "Contributor"
+msgstr ""
+
+#: VkLock_OptionsManager.php:411
+msgid "Subscriber"
+msgstr ""
+
+#: VkLock_OptionsManager.php:413
+msgid "Anyone"
+msgstr ""
